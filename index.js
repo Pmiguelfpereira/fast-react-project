@@ -15,7 +15,7 @@ import { tsconfig, eslintConfig } from "./lib/configs.js";
 const program = new Command();
 
 program
-  .name("easy-react-project")
+  .name("fast-react-project")
   .description(
     "CLI to create React + Vite + TS projects with optional packages and structure"
   )
